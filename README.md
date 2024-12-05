@@ -12,3 +12,5 @@ BTech   CSE 1ST YEAR.
 hosteller
 <br>
 section b rollno BT24cse107
+<br>
+kajra madhya pradesh
